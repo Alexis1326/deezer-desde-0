@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    font-family: Open Sans;
+}
+body{
+    box-sizing: border-box;
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.925);    
+}
+
+.ofertatigo{
+    position:absolute;
+    text-align: center;
+    left: 100px;
+}
+.logodeezer{
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    left: 46.5%;
+    top: 36px;
+    font-size: 35px;
+    font-weight: 40%;
+}
+.iniciarsesion{
+    position:absolute;
+    text-align: center;
+    right: 100px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    background-color: transparent;
+    width: 125px;
+    padding: 15px;
+    top: 20px;
+    color: #fff;
+    font-size: 11px;
+}
+.titulo{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    padding: 50px;
+    margin: 100px;
+}
+.free{
+    text-align: center;
+    margin: 0 0 25px;
+    padding: 20px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+    position: relative;
+    width: 500px;
+    justify-content: center;
+    background: rgb(115,64,178);
+    background: linear-gradient(90deg, rgba(115,64,178,1) 0%, rgba(130,62,175,1) 35%, rgba(144,59,172,1) 100%);
+    background-color: #bf1ceb; position: relative; box-shadow: -80px -80px 200px 0px rgba(255, 0, 0, 0.322), 80px -90px 200px 0px #06ad5769;
+    border: 50% transparent; 
+}
+.registrar{
+    border-radius: 50px;
+    background-color:black;
+    color: white;
+    padding: 15px;
+    border: black;
+}
+.registrar:hover{
+    border-radius: 50px;
+    background-color:white;
+    color: black;
+    padding: 15px;
+}
+.descubre{
+    border-radius: 50px;
+    background-color:white;
+    color: black;
+    padding: 15px;
+    border: white;
+}
+.descubre:hover{
+    border-radius: 50px;
+    background-color:black;
+    color: white;
+    padding: 15px;
+}
+.family{
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 30px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+    position: relative;
+    width: 500px;
+    justify-content: center;
+    background: rgb(229,102,25);
+    background: linear-gradient(90deg, rgba(229,102,25,1) 0%, rgba(241,134,35,1) 35%, rgba(251,163,44,1) 100%);
+}
+.socios{
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 30px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+    position: relative;
+    width: 500px;
+    justify-content: center;
+    background: rgb(41,42,46);
+    background: linear-gradient(0deg, rgba(41,42,46,1) 0%, rgba(58,59,71,1) 100%);
+   
+}
+
+.azul{
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 30px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+    position: relative;
+    width: 500px;
+    justify-content: center;
+    background: rgb(105,95,237);
+    background: linear-gradient(90deg, rgba(105,95,237,1) 0%, rgba(70,119,228,1) 50%, rgba(59,180,176,1) 100%);
+}
+.botonflow{
+    margin: 0 auto;
+    padding: 100px 550px;
+}
+.flow{
+    
+    border-radius: 50px;
+    background-color:white;
+    color: black;
+    
+    
+}
